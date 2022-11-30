@@ -1,0 +1,26 @@
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\Gestion de Usuarios.exe
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\Gestion de Usuarios.deps.json
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\Gestion de Usuarios.runtimeconfig.json
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\Gestion de Usuarios.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\Gestion de Usuarios.pdb
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.csproj.AssemblyReference.cache
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion_de_Usuarios.Menú.resources
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.csproj.GenerateResource.cache
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.AssemblyInfoInputs.cache
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.AssemblyInfo.cs
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.csproj.CoreCompileInputs.cache
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\refint\Gestion de Usuarios.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.pdb
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.genruntimeconfig.cache
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\ref\Gestion de Usuarios.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion_de_Usuarios.GestionUsuarios.resources
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\CURSO C#\Gestion de Usuarios\Gestion de Usuarios\obj\Debug\net6.0-windows\Gestion de Usuarios.csproj.CopyComplete

@@ -1,0 +1,17 @@
+D:\CURSO C#\Promedio\Promedio\bin\Debug\net6.0-windows\Promedio.exe
+D:\CURSO C#\Promedio\Promedio\bin\Debug\net6.0-windows\Promedio.deps.json
+D:\CURSO C#\Promedio\Promedio\bin\Debug\net6.0-windows\Promedio.runtimeconfig.json
+D:\CURSO C#\Promedio\Promedio\bin\Debug\net6.0-windows\Promedio.dll
+D:\CURSO C#\Promedio\Promedio\bin\Debug\net6.0-windows\Promedio.pdb
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.csproj.AssemblyReference.cache
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.Form1.resources
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.csproj.GenerateResource.cache
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.AssemblyInfoInputs.cache
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.AssemblyInfo.cs
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.csproj.CoreCompileInputs.cache
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.dll
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\refint\Promedio.dll
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.pdb
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\Promedio.genruntimeconfig.cache
+D:\CURSO C#\Promedio\Promedio\obj\Debug\net6.0-windows\ref\Promedio.dll

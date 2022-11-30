@@ -1,0 +1,17 @@
+D:\CURSO C#\numeros primos\numeros primos\bin\Debug\net6.0-windows\numeros primos.exe
+D:\CURSO C#\numeros primos\numeros primos\bin\Debug\net6.0-windows\numeros primos.deps.json
+D:\CURSO C#\numeros primos\numeros primos\bin\Debug\net6.0-windows\numeros primos.runtimeconfig.json
+D:\CURSO C#\numeros primos\numeros primos\bin\Debug\net6.0-windows\numeros primos.dll
+D:\CURSO C#\numeros primos\numeros primos\bin\Debug\net6.0-windows\numeros primos.pdb
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros primos.csproj.AssemblyReference.cache
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros_primos.Form1.resources
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros primos.csproj.GenerateResource.cache
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros primos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros primos.AssemblyInfoInputs.cache
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros primos.AssemblyInfo.cs
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros primos.csproj.CoreCompileInputs.cache
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros primos.dll
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\refint\numeros primos.dll
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros primos.pdb
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\numeros primos.genruntimeconfig.cache
+D:\CURSO C#\numeros primos\numeros primos\obj\Debug\net6.0-windows\ref\numeros primos.dll

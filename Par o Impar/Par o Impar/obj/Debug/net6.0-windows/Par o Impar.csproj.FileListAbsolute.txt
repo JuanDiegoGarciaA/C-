@@ -1,0 +1,17 @@
+D:\CURSO C#\Par o Impar\Par o Impar\bin\Debug\net6.0-windows\Par o Impar.exe
+D:\CURSO C#\Par o Impar\Par o Impar\bin\Debug\net6.0-windows\Par o Impar.deps.json
+D:\CURSO C#\Par o Impar\Par o Impar\bin\Debug\net6.0-windows\Par o Impar.runtimeconfig.json
+D:\CURSO C#\Par o Impar\Par o Impar\bin\Debug\net6.0-windows\Par o Impar.dll
+D:\CURSO C#\Par o Impar\Par o Impar\bin\Debug\net6.0-windows\Par o Impar.pdb
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par o Impar.csproj.AssemblyReference.cache
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par_o_Impar.Form1.resources
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par o Impar.csproj.GenerateResource.cache
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par o Impar.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par o Impar.AssemblyInfoInputs.cache
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par o Impar.AssemblyInfo.cs
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par o Impar.csproj.CoreCompileInputs.cache
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par o Impar.dll
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\refint\Par o Impar.dll
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par o Impar.pdb
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\Par o Impar.genruntimeconfig.cache
+D:\CURSO C#\Par o Impar\Par o Impar\obj\Debug\net6.0-windows\ref\Par o Impar.dll

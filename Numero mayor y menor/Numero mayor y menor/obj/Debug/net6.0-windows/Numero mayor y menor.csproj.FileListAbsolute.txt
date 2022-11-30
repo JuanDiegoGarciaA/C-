@@ -1,0 +1,17 @@
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\bin\Debug\net6.0-windows\Numero mayor y menor.exe
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\bin\Debug\net6.0-windows\Numero mayor y menor.deps.json
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\bin\Debug\net6.0-windows\Numero mayor y menor.runtimeconfig.json
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\bin\Debug\net6.0-windows\Numero mayor y menor.dll
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\bin\Debug\net6.0-windows\Numero mayor y menor.pdb
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero mayor y menor.csproj.AssemblyReference.cache
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero_mayor_y_menor.Form1.resources
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero mayor y menor.csproj.GenerateResource.cache
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero mayor y menor.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero mayor y menor.AssemblyInfoInputs.cache
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero mayor y menor.AssemblyInfo.cs
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero mayor y menor.csproj.CoreCompileInputs.cache
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero mayor y menor.dll
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\refint\Numero mayor y menor.dll
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero mayor y menor.pdb
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\Numero mayor y menor.genruntimeconfig.cache
+D:\CURSO C#\Numero mayor y menor\Numero mayor y menor\obj\Debug\net6.0-windows\ref\Numero mayor y menor.dll
